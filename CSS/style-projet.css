@@ -1451,3 +1451,10 @@ details[open]::before {
     width: 100%;
   }
 }
+.copyright {
+  text-align:center;
+  padding-top:24px;
+  opacity:0.3;
+  font-size:13px;
+  margin-bottom:0;
+}
